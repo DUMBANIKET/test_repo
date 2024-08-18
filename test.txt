@@ -1,3 +1,6 @@
 hello 
+<<<<<<< HEAD
 
 this is a test
+=======
+>>>>>>> 1137fc6 (new thing)
